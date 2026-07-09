@@ -1,0 +1,25 @@
+Interest,Skill_Level,Study_Hours,Recommended_Course
+Programming,Beginner,5,Python for Beginners
+Programming,Intermediate,10,Data Structures
+Programming,Advanced,15,Machine Learning
+Data Science,Beginner,6,Statistics Basics
+Data Science,Intermediate,12,Data Analysis with Python
+Data Science,Advanced,18,Deep Learning
+Web Development,Beginner,4,HTML CSS
+Web Development,Intermediate,9,JavaScript
+Web Development,Advanced,14,React Development
+Cyber Security,Beginner,5,Network Basics
+Cyber Security,Intermediate,10,Ethical Hacking
+Cyber Security,Advanced,16,Penetration Testing
+AI,Beginner,6,Introduction to AI
+AI,Intermediate,12,NLP Fundamentals
+AI,Advanced,18,Generative AI
+Cloud Computing,Beginner,5,AWS Basics
+Cloud Computing,Intermediate,10,Azure Administrator
+Cloud Computing,Advanced,16,Cloud Architect
+Programming,Beginner,7,Python Basics
+Programming,Intermediate,11,OOP using Python
+Programming,Advanced,17,Advanced Python
+Data Science,Beginner,5,Excel for Data Analysis
+Data Science,Intermediate,11,SQL for Data Science
+AI,Advanced,20,Large Language Models
